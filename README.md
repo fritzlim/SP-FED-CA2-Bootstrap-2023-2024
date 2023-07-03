@@ -1,5 +1,12 @@
 # SP FED CA2 Bootstrap for 2023-2024
 
+#### Pre-Submission 5%
+- Nav bar
+- Page header
+- Use of columns
+- Responsive to 3 breakpoints
+****
+
 ### Some useful resources
 
 #### Containers
@@ -23,4 +30,6 @@
 - https://getbootstrap.com/docs/5.3/components/buttons/
 #### Scrollspy
 - https://getbootstrap.com/docs/5.3/components/scrollspy/
+
+
  
