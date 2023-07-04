@@ -30,6 +30,8 @@
 - https://getbootstrap.com/docs/5.3/components/buttons/
 #### Scrollspy
 - https://getbootstrap.com/docs/5.3/components/scrollspy/
-
+#### hiding elements
+- https://getbootstrap.com/docs/5.3/utilities/display/#hiding-elements
+  
 
  
