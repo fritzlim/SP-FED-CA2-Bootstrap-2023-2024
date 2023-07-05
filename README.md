@@ -9,9 +9,12 @@
 
 #### Suggestion for the 4th page
 Either:
-- Create user registration form for a Save the Earth newsletter
-- Create feedback form about your page
+- Create a user registration form for a Save the Earth newsletter
+- Create a feedback form about your page
 ****
+
+#### Reminder
+- Fill out and sign the Academic Integrity form and submit it together with your assignnent
 
 ### Some useful resources
 
