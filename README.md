@@ -38,6 +38,17 @@ Either:
 - https://getbootstrap.com/docs/5.3/components/card/
 #### Buttons
 - https://getbootstrap.com/docs/5.3/components/buttons/
+#### Forms
+- Overview
+    - https://getbootstrap.com/docs/5.3/forms/overview/
+- Form controls
+    - https://getbootstrap.com/docs/5.3/forms/form-control/
+- Select
+    - https://getbootstrap.com/docs/5.3/forms/select/
+- Checks & radios
+    - https://getbootstrap.com/docs/5.3/forms/checks-radios/
+- Range
+    - https://getbootstrap.com/docs/5.3/forms/range/
 #### Scrollspy
 - https://getbootstrap.com/docs/5.3/components/scrollspy/
 #### Hiding elements
