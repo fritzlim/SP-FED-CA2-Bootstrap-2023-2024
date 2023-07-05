@@ -7,6 +7,12 @@
 - Responsive to 3 breakpoints
 ****
 
+#### Suggestion for the 4th page
+Either:
+- Create user registration form for a Save the Earth newsletter
+- Create feedback form about your page
+****
+
 ### Some useful resources
 
 #### Containers
