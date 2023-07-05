@@ -41,7 +41,7 @@ Either:
 #### Forms
 - Overview
     - https://getbootstrap.com/docs/5.3/forms/overview/
-- Form controls
+- Form control
     - https://getbootstrap.com/docs/5.3/forms/form-control/
 - Select
     - https://getbootstrap.com/docs/5.3/forms/select/
