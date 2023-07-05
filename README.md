@@ -7,13 +7,13 @@
 - Responsive to 3 breakpoints
 ****
 
-#### Suggestion for the 4th page
+#### Suggestions for the 4th page
 Either:
 - Create a user registration form for a Save the Earth newsletter
 - Create a feedback form about your page
 ****
 
-#### Reminder
+#### Reminders
 - Fill out and sign the Academic Integrity form and submit it together with your assignnent
 ****
 
