@@ -9,12 +9,18 @@
 
 #### Suggestions for the 4th page
 Either:
-- Create a user registration form for a Save the Earth newsletter
-- Create a feedback form about your page
+- Create a user registration form for a Save the Earth newsletter.
+- Create a feedback form about your page.
 ****
 
+#### Suggestions for using JavaScript in your website
+Either (or try doing all of these):
+- Have a clock that shows the current time (Cengage Lesson 9 Coding Challenge 1).
+- Have a countdown timer where you can set the start time (make use of a Boostrap form `input` control and a submit button, and see the code in Cengage Lesson 9 Coding Challenge 2).
+- Your Bootstrap form on the 4th page has a submit button. When this button is clicked, all the information that was filled out in the form is shown in an alert window.
+
 #### Reminders
-- Fill out and sign the Academic Integrity form and submit it together with your assignnent
+- Fill out and sign the Academic Integrity form and submit it together with your assignnent.
 ****
 
 ### Some useful resources
