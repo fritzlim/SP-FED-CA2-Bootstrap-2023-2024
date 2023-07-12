@@ -19,6 +19,12 @@ Either (or try doing all of these):
 - Have a countdown timer where you can set the start time (make use of a Boostrap form `input` control and a submit button, and see the code in Cengage Lesson 9 Coding Challenge 2).
 - Your Bootstrap form on the 4th page has a submit button. When this button is clicked, all the information that was filled out in the form is shown in an alert window.
 
+#### Notes
+- To create a submit button, you can use the `onclick` event handler, so that clicking the button will run some JavaScript code. See https://www.w3schools.com/JSREF/event_onclick.asp for sample code.
+- Once you create a submit button, you can omit the `action=` attribute in the `form` tag, because the button handles the form processeing, instead of sending the form data to the URL given by the `action` attribute.
+
+****
+
 #### Reminders
 - Fill out and sign the Academic Integrity form and submit it together with your assignnent.
 ****
