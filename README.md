@@ -25,6 +25,12 @@ Either (or try doing all of these):
 
 ****
 
+#### Using JavaScript properties to amend HTML (this is for the "JavaScript properties" in the CA2 rubrik)
+- These are properties such as `.value` '.innerHTML', etc.
+- To acess/amend these properties, we often use `document.getElementById("someId").value` and `document.getElementById("someId").innerHTML` (see Cengage Chapter 9.8).
+
+****
+
 #### Reminders
 - Fill out and sign the Academic Integrity form and submit it together with your assignnent.
 ****
