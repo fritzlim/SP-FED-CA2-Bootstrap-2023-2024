@@ -1,3 +1,6 @@
+// const submitButton = document.getElementById("submit-button");
+// submitButton.addEventListener("click", handleFormSubmit(event));
+
 // function showImage() {
 //   //   alert("Smile! :)");
 //   //   alert(document.getElementById("img1").name);
@@ -11,3 +14,13 @@
 //       break;
 //   }
 // }
+
+// TODO: Able to validate the form before running the submit handler.
+// Use <form onsubmit="return validateForm">
+// See https://www.google.com/search?client=firefox-b-d&q=html+javascrit+form+validation
+//    - https://www.geeksforgeeks.org/form-validation-using-html-javascript/
+function handleFormSubmit(e) {
+  // e.preventDefault();
+  // alert("Handle form submit");
+  console.log("hello");
+}
