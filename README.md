@@ -1,4 +1,4 @@
-# SP FED CA2 Bootstrap for 2023-2024
+# SP FED CA2 Bootstrap and JavaScript for 2023-2024
 
 #### To Do for Pre-Submission 5% Marks
 - Nav bar
